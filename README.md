@@ -1,2 +1,2 @@
-# Practice1
+# typescriptkata
 Created with CodeSandbox
